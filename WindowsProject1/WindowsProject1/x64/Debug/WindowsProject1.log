@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\Users\MemphisJuniorGod\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(30,53): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\MemphisJuniorGod\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(32,38): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  WindowsProject1.vcxproj -> C:\Users\MemphisJuniorGod\source\repos\WindowsProject1\x64\Debug\WindowsProject1.exe
